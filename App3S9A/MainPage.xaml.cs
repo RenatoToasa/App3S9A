@@ -12,6 +12,7 @@ namespace App3S9A
     {
         public MainPage()
         {
+            //Constructor
             InitializeComponent();
         }
 

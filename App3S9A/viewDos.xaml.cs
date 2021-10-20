@@ -14,6 +14,7 @@ namespace App3S9A
     {
         public viewDos(string usuario, string clave)
         {
+            //Constructor de la vista dos
             InitializeComponent();
             lblUsuario.Text = usuario;
             lblClave.Text = clave;
